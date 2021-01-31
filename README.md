@@ -1,2 +1,1 @@
-# Naman-1234
-![Visitor Count](https://profile-counter.glitch.me/{Naman-1234}/count.svg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id==Naman-1234.Naman-1234)
