@@ -12,12 +12,15 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Naman-1234&theme=radical&count_private=true" />
  </a>
 
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-1234&&hide=CSS&layout=compact&theme=radical" />
  </a>
-
+ 
+<br>
 <a href="https://git.io/streak-stats" display="block" width="100%">
   <img align ="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-1234" />
  </a>
   
+
