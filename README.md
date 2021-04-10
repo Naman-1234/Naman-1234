@@ -8,18 +8,17 @@
   </ul>
 
 
-  
+  <div >
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naman-1234&theme=radical&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Naman-1234&theme=radical&count_private=true" />
  </a>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-1234&&hide=CSS&layout=compact&theme=radical" />
  </a>
-<br>
-<br>
 
+</div>
 <p align="center">
 <a href="https://git.io/streak-stats" display="block" width="100%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-1234" />
