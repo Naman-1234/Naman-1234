@@ -1,5 +1,7 @@
 ### Hi there, I am Naman
-*Junior at IIIT Vadodara*
+
+👨‍🎓 _Junior at IIIT Vadodara_
+
 <hr>
 A little more about me...
 
@@ -24,7 +26,7 @@ const Naman={
     "GWOC Mentor in MERN Domain",
     "Technical Content Writer at geeksforgeeks",
     "Postman Student Expert",
-    "Member at IIITV Dot Club(Designing Club)" 
+    "Member at IIITV Dot Club(Designing Club)"
   },
   "Open Source":{
     "Codeheat finalist winner of Period 4 2020-2021"
