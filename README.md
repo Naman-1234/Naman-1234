@@ -8,7 +8,7 @@ A little more about me...
 ```javascript
 const Naman={
   "Pronouns"="He/Him",
-  "Description"="I am currently a Junior at IIIT Vadodara and a  Full stack MERN web developer."
+  "Description"="I am currently a Senior at IIIT Vadodara and a  Full stack MERN web developer."
   "Technologies":{
     "Languages:"                ["C", "C++", "Java", "JavaScript", "Solidity", "HTML5", "CSS3"],
     "Frameworks and Libraries:" ["React", "Nodejs", "Express","three.js",],
