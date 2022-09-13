@@ -1,6 +1,6 @@
 ### Hi there, I am Naman
 
-👨‍🎓 _Junior at IIIT Vadodara_
+👨‍🎓 _Senior at IIIT Vadodara_
 
 <hr>
 A little more about me...
